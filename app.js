@@ -6,3 +6,4 @@ console.log(new whateverinTutorialjs.MyClass());
 console.log("Hello from Tejas");
 // let newObj= new whateverinTutorialjs.MyClass();
 
+console.log('hello friends chai pilo');
