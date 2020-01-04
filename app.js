@@ -7,3 +7,4 @@ console.log("Hello from Tejas");
 // let newObj= new whateverinTutorialjs.MyClass();
 
 console.log('hello friends chai pilo');
+console.log('Chalte hai');
